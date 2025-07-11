@@ -29,7 +29,7 @@
 | 순서 | 과제명 | Repo URL | PR 1단계 | PR 2단계 | PR 3단계 | Reviewer | 기간 |
 |------|--------|----------|----------|----------|----------|----------|------|
 | 1 | 상품 관리 - 스프링 입문 | [상품 관리](https://github.com/raminkim/spring-gift-product) | [PR 1](https://github.com/next-step/spring-gift-product/pull/11) | [PR 2](https://github.com/next-step/spring-gift-product/pull/176) | [PR 3](https://github.com/next-step/spring-gift-product/pull/199) | [mkom76](https://github.com/mkom76) | 2025.06.23 ~ 2025.06.30 |
-| 2 | 위시 리스트 - 요청과 응답 심화 | [위시 리스트](https://github.com/raminkim/spring-gift-wishlist) | [PR 1](https://github.com/next-step/spring-gift-wishlist/pull/110) | [PR 2](https://github.com/next-step/spring-gift-wishlist/pull/215) | - | [jjongwa](https://github.com/jjongwa) | 2025.07.01 ~ 2025.07.11 |
+| 2 | 위시 리스트 - 요청과 응답 심화 | [위시 리스트](https://github.com/raminkim/spring-gift-wishlist) | [PR 1](https://github.com/next-step/spring-gift-wishlist/pull/110) | [PR 2](https://github.com/next-step/spring-gift-wishlist/pull/215) | [PR 3](https://github.com/next-step/spring-gift-wishlist/pull/292) | [jjongwa](https://github.com/jjongwa) | 2025.07.01 ~ 2025.07.11 |
 
 ---
 
