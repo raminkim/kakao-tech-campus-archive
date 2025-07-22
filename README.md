@@ -31,7 +31,7 @@
 | 1 | 상품 관리 - 스프링 입문 | [상품 관리](https://github.com/raminkim/spring-gift-product) | [PR 1](https://github.com/next-step/spring-gift-product/pull/11) | [PR 2](https://github.com/next-step/spring-gift-product/pull/176) | [PR 3](https://github.com/next-step/spring-gift-product/pull/199) | [mkom76](https://github.com/mkom76) | 2025.06.23 ~ 2025.06.30 |
 | 2 | 위시 리스트 - 요청과 응답 심화 | [위시 리스트](https://github.com/raminkim/spring-gift-wishlist) | [PR 1](https://github.com/next-step/spring-gift-wishlist/pull/110) | [PR 2](https://github.com/next-step/spring-gift-wishlist/pull/215) | [PR 3](https://github.com/next-step/spring-gift-wishlist/pull/292) | [jjongwa](https://github.com/jjongwa) | 2025.07.01 ~ 2025.07.11 |
 | 3 | 상품 고도화 - JPA | [상품 고도화](https://github.com/raminkim/spring-gift-enhancement) | [PR 1](https://github.com/next-step/spring-gift-enhancement/pull/111) | [PR 2](https://github.com/next-step/spring-gift-enhancement/pull/206) | [PR 3](https://github.com/next-step/spring-gift-enhancement/pull/267) | [liquidjoo](https://github.com/liquidjoo) | 2025.07.14 ~ 2025.07.21 |
-| 4 | 주문하기 - 외부 API 연동 | [외부 API 연동](https://github.com/raminkim/spring-gift-order) | [PR 1]() | [PR 2]() | [PR 3]() | 25.07.22 ~ 25.08.01 |
+| 4 | 주문하기 - 외부 API 연동 | [외부 API 연동](https://github.com/raminkim/spring-gift-order) | [PR 1]() | [PR 2]() | [PR 3]() | - | 25.07.22 ~ 25.08.01 |
 
 ---
 
