@@ -39,9 +39,6 @@
 ### 📅 기간
 `2025.08.04 ~ 2025.11.14` (15주)
 
-<img width="1920" height="1080" alt="슛두리 최종 발표 PPT" src="https://github.com/user-attachments/assets/3bec2f58-6ff5-4ef3-9ff6-b7a80b41cd4c" />
-
----
 
 ### 📅 개발 일정
 
